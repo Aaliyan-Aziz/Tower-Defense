@@ -86,7 +86,7 @@ Before running the project, install:
 # How to Run
 ## 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Aaliyan-Aziz/Tower-Defense/blob/main/README.md
 ```
 ---
 ## 2. Open Project
@@ -132,17 +132,18 @@ Compile and run the project.
 ```
 ---
 # Screenshots
+### Gameplay
+![Gameplay](window1.png)
 
-Add your gameplay screenshots here.
+### Tower Placement
+![Tower Placement](window2.png)
 
-Example:
+### Game Over Screen
+![Game Over](gameover.png)
 
 ```md
-
 ```
-
 ---
-
 # Learning Outcomes
 
 This project was developed to practice:
@@ -154,11 +155,8 @@ This project was developed to practice:
 * Event Handling
 * Real-Time Rendering
 * Collision Detection
-
 ---
-
 # Future Improvements
-
 * More enemy types
 * More tower upgrades
 * Better animations
@@ -166,16 +164,11 @@ This project was developed to practice:
 * Save/load system
 * Different maps
 * Sound effects and background music improvements
-
 ---
-
 # Authors
-
 Developed by Aaliyan Aziz.
-
 ---
-
 # License
-
+Aaliyan Aziz
 This project is for educational purposes.
 
