@@ -83,6 +83,10 @@ Before running the project, install:
 * C++ Compiler
 * SFML Library
 ---
+#SFML SETUP
+*Download SFML 3.1 from the browser
+*follow the step used in the provided
+https://www.youtube.com/watch?v=qvg8BXXWpCE
 # How to Run
 ## 1. Clone Repository
 ```bash
@@ -104,7 +108,9 @@ Required SFML modules:
 * system
 * audio
 ---
-## 4. Build and Run
+## 4. ADD ALL FILES 
+Add every single header,cpp and assest file   
+## 5. Build and Run
 Compile and run the project.
 ---
 # Controls
